@@ -23,7 +23,7 @@
 
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/ProjectGUIDE.jpg" width="800" height="500">
 
-## System Design
+# System Design
 
 The aim of the design phase is to transform the requirements specified in the SRS document into a structure that is suitable for implementation in some programming language.
 Based on the above requirements analysis and SRS document the system design is to prepared
@@ -84,7 +84,23 @@ Here user can plot algebraic equation graph, sine, cosine, tangent, logarithm, e
 ### Transformation
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/TransformationPreview.JPG" width="800" height="500">
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/transformation1.JPG" width="800" height="500">
+#### Translation
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/translation.JPG" width="800" height="500">
+#### Rotation
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/rotation.JPG" width="800" height="500">
+#### Scaling
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/scaling.JPG" width="800" height="500">
+#### Shearing
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/shearing.JPG" width="800" height="500">
+
+## Numerical Method Section
+### Root of Polynomial
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/rooteq.JPG" width="800" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/roots%20of%20eq%20graph.JPG" width="800" height="500">
+
+### Interpolation/ Extrapolation Algorithm
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/Interpolation.JPG" width="800" height="500">
+
+### Simultaneous Linear Equation
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/LinEqn.JPG" width="800" height="500">
+
