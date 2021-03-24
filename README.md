@@ -73,12 +73,18 @@ This is also very interesting module, here one can plot graph of any algebraic a
 Here user can plot algebraic equation graph, sine, cosine, tangent, logarithm, exponential graph by only giving function parameter value
 
 # ScreenShots
-
+## Computer Graphics Section
 ### Line Drwaing Algorithm
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/LineDraw.JPG" width="800" height="500">
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/LineDrawGraph.JPG" width="800" height="500">
 
 ### Circle Drawing Algorithm
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/Capture.PNG" width="800" height="500">
-<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/cir.JPG" width="600" height="500">
-<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/circlegraph.JPG" width="600" height="500">
+
+### Transformation
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/TransformationPreview.JPG" width="800" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/transformation1.JPG" width="800" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/translation.JPG" width="800" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/rotation.JPG" width="800" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/scaling.JPG" width="800" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/shearing.JPG" width="800" height="500">
