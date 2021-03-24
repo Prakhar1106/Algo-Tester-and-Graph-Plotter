@@ -74,6 +74,11 @@ Here user can plot algebraic equation graph, sine, cosine, tangent, logarithm, e
 
 # ScreenShots
 
+### Line Drwaing Algorithm
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/LineDraw.JPG" width="800" height="500">
 <img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/LineDrawGraph.JPG" width="800" height="500">
 
+### Circle Drawing Algorithm
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/Capture.PNG" width="800" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/cir.JPG" width="600" height="500">
+<img src="https://github.com/Prakhar1106/Algo-Tester-and-Graph-Plotter/blob/main/Numerical%20Integrato%20v2.0/Project%20pics/circlegraph.JPG" width="600" height="500">
